@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Just your friendly neighbourhood fullstack web developer. 
+<br>
 I spend my free time and work time building amazing web applications and packages 😄. 
+<br>
 Need a someone to join your team and build amazing laravel, vuejs and nuxtjs applications? You can reach me at [anthonyakrodev@gmail.com](mailto:anthonyakrodev@gmail.com) 
 
 <!--
