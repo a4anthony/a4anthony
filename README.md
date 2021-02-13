@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Just your friendly neighbourhood fullstack web developer. 
-<br>
+<br><br>
 I spend my free time and work time building amazing web applications and packages 😄. 
-<br>
-Need a someone to join your team and build amazing laravel, vuejs and nuxtjs applications? You can reach me at [anthonyakrodev@gmail.com](mailto:anthonyakrodev@gmail.com) 
+<br><br>
+Need a someone to join your team and build amazing laravel, vuejs, nuxtjs and mern stack applications? You can reach me at [anthonyakrodev@gmail.com](mailto:anthonyakrodev@gmail.com) 
 
 <!--
 **a4anthony/a4anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
