@@ -4,11 +4,12 @@ Just your friendly neighbourhood fullstack web developer.
 <br><br>
 I spend my free time and work time building amazing web applications and packages 😄. 
 <br><br>
-Need a someone to join your team and build amazing laravel, vuejs, nuxtjs and mern stack applications? You can reach me at [anthonyakrodev@gmail.com](mailto:anthonyakrodev@gmail.com) 
+Need a someone to join your team and build amazing laravel, vuejs, react, nuxtjs and go applications? You can reach me at [anthonyakrodev@gmail.com](mailto:anthonyakrodev@gmail.com) 
+
+<!--
 <br><br>
 Currently building MelaStore at [https://dev-melatech.github.io/mela-store/](https://dev-melatech.github.io/mela-store/) and
 [https://github.com/dev-melatech/mela-store](https://github.com/dev-melatech/mela-store) 
-<!--
 **a4anthony/a4anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
